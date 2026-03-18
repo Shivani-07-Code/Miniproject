@@ -1,22 +1,22 @@
 # This is my first miniproject using HTML & CSS.
 
-#Dream Capture
+📷 Dream Capture
 
 Dream Capture is a simple photography website created using HTML and CSS.It showcases a modern dark-themed design to display photography work.
 
 
 🌟 Features
 
-📷 Full-screen hero image
-📂 Sidebar navigation (Gallery, Events, Store, Contact)
-🌙 Dark UI design
-📱 Responsive layout
+📷 Full-screen hero image <br>
+📂 Sidebar navigation (Gallery, Events, Store, Contact) <br>
+🌙 Dark UI design <br>
+📱 Responsive layout <br>
 
 
 🛠️ Technologies Used
 
-HTML5
-CSS3
+HTML5 <br>
+CSS3 <br>
 
 🚀 How to Run
 
@@ -26,11 +26,11 @@ CSS3
 
 📁 Project Structure
 
-Dream-Capture/
-│── index.html
-│── style.css
-│── images/
-│── screenshot.png
+Dream-Capture/ <br>
+│── index.html <br>
+│── style.css <br>
+│── images/ <br>
+│── screenshot.png <br>
 
 📸 Preview
 
@@ -41,5 +41,5 @@ Dream-Capture/
 This project is built for practicing web development and creating a basic photography website.
 
 
-Author
+Author <br>
 Shivani Dharmadhikari
